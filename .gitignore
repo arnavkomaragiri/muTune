@@ -180,4 +180,4 @@ cython_debug/
 dataset/
 
 # coord checks
-coord_checks/
+*coord_checks/
